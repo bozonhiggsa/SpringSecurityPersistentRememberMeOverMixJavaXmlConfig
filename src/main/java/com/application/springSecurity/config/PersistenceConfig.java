@@ -11,9 +11,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import javax.sql.DataSource;
 
 /**
- * Spring Database Configuration.
- */
-/**
  * Java Configuration of a Spring Database.
  * @author Ihor Savchenko
  * @version 1.0
