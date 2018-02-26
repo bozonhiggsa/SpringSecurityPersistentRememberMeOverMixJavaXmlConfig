@@ -8,6 +8,7 @@ Technologies:
 - Spring WebMVC 5
 - Spring Security 5
 - Tomcat 8
+- DB H2
 
 Prerequisites:
 - Maven 3
